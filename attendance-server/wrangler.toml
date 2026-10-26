@@ -5,4 +5,4 @@ compatibility_date = "2025-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "attendance"
-database_id = "PASTE_DATABASE_ID_HERE"
+database_id = "8af3c010-31c8-46e8-a54a-606f9f952a14"
